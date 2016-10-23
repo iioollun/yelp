@@ -20,18 +20,21 @@ PODS:
   - AFNetworking/UIKit (2.6.3):
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
+  - ARSLineProgress (2.0.0)
   - BDBOAuth1Manager (1.6.0):
     - AFNetworking/NSURLConnection (~> 2.6.0)
     - AFNetworking/NSURLSession (~> 2.6.0)
 
 DEPENDENCIES:
   - AFNetworking (~> 2.5)
+  - ARSLineProgress (~> 2.0)
   - BDBOAuth1Manager (= 1.6.0)
 
 SPEC CHECKSUMS:
   AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  ARSLineProgress: a20f4093d44802184cbc135bcd56259d6f12d002
   BDBOAuth1Manager: cd5a5872f355ca38180d52ca2dd844f0b0c84797
 
-PODFILE CHECKSUM: 268f60b15878facb440bc9fdbce136eb63e711f5
+PODFILE CHECKSUM: 0c7e923470f0826fc5dda82842f3b98b3b48beeb
 
-COCOAPODS: 1.0.0
+COCOAPODS: 1.1.0.rc.3
